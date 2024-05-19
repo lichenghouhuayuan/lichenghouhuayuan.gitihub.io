@@ -3,10 +3,31 @@
     <title>小橙的后花园</title>
     <link href="https://lichenghouhuayuan.github.io/feed.xml" rel="self" />
     <link href="https://lichenghouhuayuan.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-05-19T13:57:32+08:00</updated>
     <author>
         <name>xiaocheng</name>
     </author>
     <id>https://lichenghouhuayuan.github.io</id>
 
+    <entry>
+        <title>测试文章</title>
+        <author>
+            <name>xiaocheng</name>
+        </author>
+        <link href="https://lichenghouhuayuan.github.io/ce-shi-wen-zhang.html"/>
+        <id>https://lichenghouhuayuan.github.io/ce-shi-wen-zhang.html</id>
+
+        <updated>2024-05-19T13:57:30+08:00</updated>
+            <summary>
+                <![CDATA[
+                    #这是一篇测试文章 希望大家三连关注
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>#这是一篇测试文章
+希望大家三连关注</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
