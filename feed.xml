@@ -3,30 +3,30 @@
     <title>小橙的后花园</title>
     <link href="https://lichenghouhuayuan.github.io/feed.xml" rel="self" />
     <link href="https://lichenghouhuayuan.github.io" />
-    <updated>2024-05-19T14:00:47+08:00</updated>
+    <updated>2024-05-19T14:04:13+08:00</updated>
     <author>
         <name>xiaocheng</name>
     </author>
     <id>https://lichenghouhuayuan.github.io</id>
 
     <entry>
-        <title>测试文章</title>
+        <title>问问企鹅‘</title>
         <author>
             <name>xiaocheng</name>
         </author>
-        <link href="https://lichenghouhuayuan.github.io/ce-shi-wen-zhang.html"/>
-        <id>https://lichenghouhuayuan.github.io/ce-shi-wen-zhang.html</id>
+        <link href="https://lichenghouhuayuan.github.io/wen-wen-qi-e.html"/>
+        <id>https://lichenghouhuayuan.github.io/wen-wen-qi-e.html</id>
+            <category term="测试"/>
 
-        <updated>2024-05-19T13:57:30+08:00</updated>
+        <updated>2024-05-19T14:04:13+08:00</updated>
             <summary>
                 <![CDATA[
-                    #这是一篇测试文章 希望大家三连关注
+                    额企鹅王而且事情
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>#这是一篇测试文章
-希望大家三连关注</p>
+                <p>额企鹅王而且事情</p>
             ]]>
         </content>
     </entry>
